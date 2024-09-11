@@ -1,19 +1,3 @@
-package src.main.java;
-/* 
-classe vetor {
-    // Atributos
-    Array de Individuos
-
-    // Métodos
-    // Inicializa o vetor com indivíduos saudáveis
-    inicializarVetor(tamanho) {
-        para i de 0 até tamanho-1 {
-            adicionar novo Individuo(saúdavel) ao Array
-        }
-    }
-}
-*/
-
 public class Vetor {
     public Pessoa[] pessoas;
 

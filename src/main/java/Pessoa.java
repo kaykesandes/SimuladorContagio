@@ -1,5 +1,3 @@
-package src.main.java;
-
 public class Pessoa {
     public int id;
     public boolean condSaude;

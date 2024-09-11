@@ -1,5 +1,3 @@
-package src.main.java;
-
 public class Simulacao {
     private Vetor populacao;
 
