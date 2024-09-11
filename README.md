@@ -107,11 +107,10 @@ Pré-requisitos
 
   #### Vetor.java
     Gerencia o vetor de pessoas e imprime o estado atual da população.
+## Contato
 
-  ## Contato
-
-      Para mais informações, entre em contato com:
-            [kaykegy@proton.me](mailto:kaykegy@proton.me).
-            [guilherme.24122004@gmail.com](mailto:guilherme.24122004@gmail.com).
+  Para mais informações, entre em contato com:
+    - [kaykegy@proton.me](mailto:kaykegy@proton.me)
+    - [guilherme.24122004@gmail.com](mailto:guilherme.24122004@gmail.com)
 
 
