@@ -1,0 +1,20 @@
+# Ignore diretório de build do Maven
+target/
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos de configuração do IDE
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# Ignore arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos de backup
+*.bak
+*.swp
