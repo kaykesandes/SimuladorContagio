@@ -78,7 +78,7 @@ Pré-requisitos
 
   3. **Empacote o Projeto em um Arquivo**`.jar`**:**
   ```bash
-    mvn packege
+    mvn package
   ```
   Isso gerará um arquivo `ATVJAVA-1.0-SNAPSHOT.jar` na pasta `target`.]
 
