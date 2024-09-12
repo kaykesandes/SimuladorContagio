@@ -4,16 +4,17 @@ Este projeto é uma simulação de contaminação e recuperação de uma popula�
 
 ## Estrutura do Projeto
 
-ATVJAVA/ 
-  ├── pom.xml 
-  └── src/ 
-      └── main/ 
+```plaintext
+ATVJAVA/
+  ├── pom.xml
+  └── src/
+      └── main/
           └── java/
-              ├── Main.java 
-              ├── Pessoa.java 
-              ├── Simulacao.java 
-              └── Vetor.java
-
+              ├── Main.java
+              ├── Pessoa.java
+              ├── Simulacao.java
+              └── Vetor.jav
+```
 
 ## Dependências e Plugins
 
