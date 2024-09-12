@@ -22,9 +22,7 @@ public class Simulacao {
             Pessoa pessoa = populacao.pessoas[i];
             if (!pessoa.getRecuperado() && !pessoa.getCondSaude()) {
                 if (Math.random() < taxaRecuperacao) {
-                    {
-                        pessoa.setRecuperado(true);
-                    }
+                    pessoa.setRecuperado(true);
                 }
             }
         }
@@ -32,5 +30,21 @@ public class Simulacao {
 
     public void printVetor() {
         populacao.printVetor();
+    }
+
+    public void addPessoa(Pessoa novaPessoa) {
+        populacao.addPessoa(novaPessoa);
+    }
+
+    public void removerPessoa(int id) {
+        populacao.removePessoa(id);
+    }
+
+    public void alterarPessoa(int id, boolean condSaude, boolean recuperado) {
+        populacao.alteraPessoa(id, condSaude, recuperado);
+    }
+
+    public Pessoa[] getPopulacao() {
+        return populacao.pessoas;
     }
 }

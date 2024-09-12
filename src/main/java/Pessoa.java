@@ -28,4 +28,9 @@ public class Pessoa {
     public void setRecuperado(boolean recuperado){
          this.recuperado = recuperado;
     }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
 }
